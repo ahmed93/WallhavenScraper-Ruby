@@ -19,6 +19,7 @@ build/
 /_yardoc/
 /doc/
 /rdoc/
+.DS_Store
 
 ## Environment normalisation:
 /.bundle/
